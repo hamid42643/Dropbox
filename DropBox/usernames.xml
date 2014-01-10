@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<usernames>
+	<record>
+		<username>betty</username>
+		<password>apple</password>
+	</record>
+	<record>
+		<username>username</username>
+		<password>password</password>
+	</record>
+	<record>
+		<username>charlie</username>
+		<password>echo</password>
+	</record>
+</usernames>
